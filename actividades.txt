@@ -1,0 +1,27 @@
+1. en una verduleria se desea contar las manzanas que hayan ingresado en la mañana.
+por cada caja hay 24 manzanas. 
+pensar / realizar un algoritmo que muestre en consola cuantas manzanas habrian en caso
+de tener
+
+a. 5 cajas
+b. 10 cajas
+c. 20 cajas
+
+2. en una despensa que se desea saber cuantas ganancias genera las bolsas de gomitas, los jugos 
+y los alfajores que se venden en un dia.
+sabiendo que cada bolsa sale 20%, cada jugo 25$ y cada alfajor 32%.
+realizar un algoritmo que pida:
+
+a. sus respectivas cantidades
+b. muestre las ganancias de cada uno en consola
+c. muestre las ganancias totales que generan juntas.
+
+3. en una concesonaria, un usuario debe pagar su auto. sin embargo, la concesonaria esta 
+festejando su aniversario  por lo que todo auto que tenga un valor mayor de 20.000 recibira un 15$
+de descuento.
+
+a.pedir el precio del auto y mostrar en consola el precio final.
+b. calcular cuanto costaria cada una de sus cuotas si se paga con un 12% de interes.
+
+parseint toma numeros enteros, con el resultado lo vuelve numerico.
+tofixel 

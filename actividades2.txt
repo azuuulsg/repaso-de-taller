@@ -1,0 +1,20 @@
+1. crear un codigo que pida al usuario que ingrese una contraseña, luego pedir al usuarioq
+que confirme su contraseña -> condicional
+ 
+ a. si al confirmar dicha contraseña es diferente a la ingresada anteriormente, mostrar
+ una alerta con el mensaje "contraseña incorrecta, vuelva a intentarlo"
+ b. si al confirmar la contraseña es correcta e igual, mostrar una alera con el mensaje
+ "contraseña correcta" y finalizar el codigo.
+
+ 2. el usurio desea saber el momento en el que sus ventas superen los $5000. 
+ 
+ a.realizar un algoritmo que pida la cantidad de dinero de cada venta.
+ b. contar la cantidad de ventas ingresadas hasta que cumpla la meta.
+ c. una vez lograda la meta, mostrar un mensaje con una alerta que diga "meta cumplida"
+
+
+ 3. realizar un algoritmo que pida la cantidad de transferencias realizadas en una despensa.
+
+ a. por cada transferencias se desea saber la cantidad de dinero generado.
+ b. y al final mostrar el total recaudado con todas las transferencias.
+ b. mostrar la transaccion mas alta y su numero de transferencia. (id / indice)
