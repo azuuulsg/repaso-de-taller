@@ -65,8 +65,16 @@ function ej5(){
     let ventas = parseInt(prompt("ingrese la cantidad de ventas"))
     if(montos >= 5000){ 
 
+
     }
 
 
+}
+
+function ej5revicion(){
+  let total = 0
+  let cont = 0
+
+ 
 }
 
