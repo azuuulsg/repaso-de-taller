@@ -62,6 +62,11 @@ function ej4(){
 function ej5(){
     let montos = 5000
     
-    let dinero = parseInt(prompt("ingrese la cantidad de dinero en cada venta "))
+    let ventas = parseInt(prompt("ingrese la cantidad de ventas"))
+    if(montos >= 5000){ 
+
+    }
+
 
 }
+
