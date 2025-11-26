@@ -1,0 +1,88 @@
+//nombreArray.metodo
+
+console.log("Actividad 1");
+
+function ejercicio1A() {
+    console.log("Ejercicio A");
+
+    let colores = ['rojo', 'azul'];
+    let nuevaLista = colores.push('verde', 'amarillo');
+    console.log(colores);
+    console.log(nuevaLista);
+}
+
+function ejercicio1B() {
+    console.log("Ejercicio B");
+
+    nuevaLista = colores.unshift('negro')
+    console.log(colores);
+}
+
+function ejercicio1C() {
+    console.log("Ejercicio C");
+
+    let eliminados = colores.splice(3, 4);
+    console.log(colores);
+    console.log(eliminados);
+}
+
+function ejercicio1D() {
+    console.log("Ejercicio D");
+
+    let eliminar = colores.splice(0);
+    console.log(colores);
+    console.log(eliminar);
+}
+
+function ejercicio1E() {
+    console.log("Ejercicio D");
+
+    let colores = ['rojo', 'azul'];
+    colores.unshift('morado');
+    console.log(colores)
+}
+
+console.log("──── ୨୧ ────");
+
+console.log("Actividad 2");
+
+function ejercicio2A() {
+    let numeros = [5, 10, 15, 20, 25, 10];
+    console.log(numeros)
+    console.log(numeros.indexOf(15));
+}
+
+function ejercicio2B() {
+    let numeros = [5, 10, 15, 20, 25, 10];
+    console.log(numeros);
+    console.log(numeros.indexOf(10, 5));
+}
+
+function ejercicio2C() {
+    let numeros = [5, 10, 15, 20, 25, 10];
+    console.log(numeros.indexOf(30));
+    //Some
+    console.log(numeros.some(x => x === 30));   
+}
+
+function ejercicio2D() {
+    let numeros = [5, 10, 15, 20, 25, 10];
+    console.log(numeros.some(x => x > 20));
+}
+
+console.log("──── ୨୧ ────");
+
+console.log("Actividad 2");
+
+function ejercicio3A() {
+    let temperaturas = [0, 10, 20, 30, 40]; 
+}
+
+function punto3(){
+
+}
+
+function punto3b(){
+    let temperaturas = [0, 10, 20, 30,40];
+
+}
